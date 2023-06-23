@@ -1,6 +1,6 @@
 # Hi there, I'm M Mainul Hasan 👋
 
-I'm a Teaching Assistant at the University of Oslo and an experienced Full Stack Developer with extensive experience in various technologies.
+Currently serving as a Teaching Assistant and pursuing my MS in Informatics at the University of Oslo, I also have a strong background as a Full Stack Developer skilled in various technologies.
 
 ## 🌐 You can find me around the web:
 
