@@ -61,7 +61,7 @@ As an experienced software engineer and content writer, I provide the following 
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mmainulhasan](https://www.linkedin.com/in/mmainulhasandev)
+- LinkedIn: [linkedin.com/in/mmainulhasandev](https://www.linkedin.com/in/mmainulhasandev)
 - Email: [Contact Me](https://www.mmainulhasan.com/contact-me/)
 - Personal Site: [mmainulhasan.com](https://www.mmainulhasan.com)
 - Twitter: [twitter.com/mmainulhasan](https://twitter.com/mmainulhasandev)
