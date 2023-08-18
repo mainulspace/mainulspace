@@ -61,8 +61,8 @@ As an experienced software engineer and content writer, I provide the following 
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mmainulhasandev](https://www.linkedin.com/in/mainulspace)
+- LinkedIn: [linkedin.com/in/mainulspace](https://www.linkedin.com/in/mainulspace)
 - Email: [Contact Me](https://www.mmainulhasan.com/contact-me/)
 - Personal Site: [mmainulhasan.com](https://www.mmainulhasan.com)
-- Twitter: [twitter.com/mmainulhasan](https://twitter.com/mainulspace)
+- Twitter: [twitter.com/mainulspace](https://twitter.com/mainulspace)
 - Blog Sites: [webdevstory.com](https://www.webdevstory.com) | [digitalnomadhack.com](https://www.digitalnomadhack.com)
