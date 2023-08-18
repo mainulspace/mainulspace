@@ -7,7 +7,7 @@ Currently serving as a Teaching Assistant and pursuing my MS in Informatics at t
 - Sharing my code and helping others on [Stack Overflow](https://stackoverflow.com/users/16927242)
 - Showcasing my personal projects and writing about web development on [webdevstory.com](http://www.webdevstory.com)
 - Providing tips and advice on digital nomad lifestyle on [digitalnomadhack.com](http://www.digitalnomadhack.com)
-- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mmainulhasandev)
+- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mainulspace)
 - Check out my personal site at [mmainulhasan.com](http://www.mmainulhasan.com)
 
 ## 🛠 Skills:
@@ -61,8 +61,8 @@ As an experienced software engineer and content writer, I provide the following 
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mmainulhasandev](https://www.linkedin.com/in/mmainulhasandev)
+- LinkedIn: [linkedin.com/in/mmainulhasandev](https://www.linkedin.com/in/mainulspace)
 - Email: [Contact Me](https://www.mmainulhasan.com/contact-me/)
 - Personal Site: [mmainulhasan.com](https://www.mmainulhasan.com)
-- Twitter: [twitter.com/mmainulhasan](https://twitter.com/mmainulhasandev)
+- Twitter: [twitter.com/mmainulhasan](https://twitter.com/mainulspace)
 - Blog Sites: [webdevstory.com](https://www.webdevstory.com) | [digitalnomadhack.com](https://www.digitalnomadhack.com)
