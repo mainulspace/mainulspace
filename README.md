@@ -7,7 +7,7 @@ Currently serving as a Teaching Assistant and pursuing my MS in Informatics at t
 - Sharing my code and helping others on [Stack Overflow](https://stackoverflow.com/users/16927242)
 - Showcasing my personal projects and writing about web development on [webdevstory.com](http://www.webdevstory.com)
 - Providing tips and advice on digital nomad lifestyle on [digitalnomadhack.com](http://www.digitalnomadhack.com)
-- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mainulspace)
+- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mmainulhasan)
 - Check out my personal site at [mmainulhasan.com](http://www.mmainulhasan.com)
 
 ## 🛠 Skills:
@@ -35,7 +35,7 @@ Currently pursuing an **MS in Informatics**, [University of Oslo](https://www.ui
 ## 💼 Work Experience:
 
 - **Teaching Assistant** at [University of Oslo (UiO)](https://www.uio.no/), Oslo, Norway (2023 - Present)
-- **Software Engineer** at [SimulaMet](https://www.simulamet.no), Oslo, Norway (Contractual, 2022)
+- **Software Engineer** at [SimulaMet](https://www.simulamet.no), Oslo, Norway (2022)
 - **Senior Full Stack Developer** (Remote) at [MVI Solutions](https://www.mvisolutions.com/), Florida, United States (2019 - 2022)
 - **Software Engineer** at [NNS Solution Ltd.](http://nns-solution.net/), Dhaka, Bangladesh (2017 - 2018)
 - **Software Engineer** at codeTrio Dhaka, Bangladesh (2016 - 2017)
@@ -61,8 +61,7 @@ As an experienced software engineer and content writer, I provide the following 
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mainulspace](https://www.linkedin.com/in/mainulspace)
+- LinkedIn: [linkedin.com/in/mainulspace](https://www.linkedin.com/in/mmainulhasan)
 - Email: [Contact Me](https://www.mmainulhasan.com/contact-me/)
 - Personal Site: [mmainulhasan.com](https://www.mmainulhasan.com)
-- Twitter: [twitter.com/mainulspace](https://twitter.com/mainulspace)
 - Blog Sites: [webdevstory.com](https://www.webdevstory.com) | [digitalnomadhack.com](https://www.digitalnomadhack.com)
