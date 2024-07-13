@@ -6,7 +6,7 @@ Currently serving as a Teaching Assistant and pursuing my MS in Informatics at t
 
 - Sharing my code and helping others on [Stack Overflow](https://stackoverflow.com/users/16927242)
 - Showcasing my personal projects and writing about web development on [webdevstory.com](http://www.webdevstory.com)
-- Providing tips and advice on digital nomad lifestyle on [digitalnomadhack.com](http://www.digitalnomadhack.com)
+- Providing tips and advice on the digital nomad lifestyle on [digitalnomadhack.com](http://www.digitalnomadhack.com)
 - Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mmainulhasan)
 - Check out my personal site at [mmainulhasan.com](http://www.mmainulhasan.com)
 
@@ -23,9 +23,9 @@ Currently serving as a Teaching Assistant and pursuing my MS in Informatics at t
 Throughout my career as a Software Engineer, I have taken on numerous responsibilities including:
 
 - Designing and deploying the front-end and back-end of applications, ensuring security and best practices for Quality Assurance.
-- Troubleshooting, debugging, and upgrading legacy software systems and mentoring junior team members.
+- Troubleshooting, debugging, upgrading legacy software systems, and mentoring junior team members.
 - Organizing, analyzing, and interpreting large volumes of data sets and designing & developing large-scale applications.
-- Conducting client meetings, gathering requirements, and performing consistent testing of products at all stages.
+- Conducted client meetings, gathered requirements, and consistently tested products at all stages.
 - Integrating front-end elements with server-side logic, handling API integration, and developing e-commerce applications.
 - Creating new modules in existing apps, developing the back-end of products, and providing client support.
 
@@ -61,7 +61,7 @@ As an experienced software engineer and content writer, I provide the following 
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mainulspace](https://www.linkedin.com/in/mmainulhasan)
+- LinkedIn: [linkedin.com/in/mmainulhasan](https://www.linkedin.com/in/mmainulhasan)
 - Email: [Contact Me](https://www.mmainulhasan.com/contact-me/)
 - Personal Site: [mmainulhasan.com](https://www.mmainulhasan.com)
 - Blog Sites: [webdevstory.com](https://www.webdevstory.com) | [digitalnomadhack.com](https://www.digitalnomadhack.com)
