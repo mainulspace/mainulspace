@@ -1,4 +1,4 @@
-# Hi there, I'm M Mainul Hasan 👋
+# Hi there, I'm Mainul Hasan 👋
 
 Currently serving as a Teaching Assistant and pursuing my MS in Informatics at the University of Oslo, I also have a strong background as a Full Stack Developer skilled in various technologies.
 
@@ -6,17 +6,17 @@ Currently serving as a Teaching Assistant and pursuing my MS in Informatics at t
 
 - Sharing my code and helping others on [Stack Overflow](https://stackoverflow.com/users/16927242)
 - Showcasing my personal projects and writing about web development on [webdevstory.com](http://www.webdevstory.com)
-- Providing tips and advice on the digital nomad lifestyle on [digitalnomadhack.com](http://www.digitalnomadhack.com)
-- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mmainulhasan)
-- Check out my personal site at [mmainulhasan.com](http://www.mmainulhasan.com)
+- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mainulspace)
 
 ## 🛠 Skills:
 
-- **Programming:** JavaScript, Python, PHP, Git, React, Laravel, CakePHP, CodeIgniter, WordPress, HTML5, CSS3, Bootstrap
-- **Exposure:** Node.js, Firebase, Express.js, ExpressionEngine, Drupal, MongoDB, Java, SQLite, C, C++
-- **Tools:** Basecamp, Jira, Google Ads, Analytics, Search Console, Tag Manager
-- **Project Management & SEO:** Experienced in managing projects and SEO tools
-- **Languages:** English (B2), Bengali (C2)
+- **Languages**: JavaScript, PHP, Python, C, C++, familiar with Prolog, Lisp
+- **Web**: React, HTML5, CSS3, Bootstrap, jQuery, Laravel, CakePHP, CI, WordPress
+- **DB Platforms**: SQL, MySQL, MongoDB, Oracle, SQLite, PostgreSQL
+- **Google & SEO**: Google Ads, Analytics, AMP, Search Console, Tag Manager, PWA
+- **Tools**: Git, Jira, Bitbucket, Basecamp, Jenkins, GCP, Azure, Dropbox API, AWS, Docker, Linux, Mac, PhpStorm, WebStorm
+- **Exposure**: Node.js, Firebase, AWS, SEMrush, Ahrefs, Kubernetes, ExpressionEngine, Drupal, REST APIs • Server: cPanel/WHM, Nginx, LiteSpeed, Apache, PHP-FPM, VPS, Redis, Varnish, Cloudflare
+- **Languages:** English (B2), Bengali (C2), Norwegian (A1/A2)
 
 ## 💼 Responsibilities:
 
@@ -61,7 +61,6 @@ As an experienced software engineer and content writer, I provide the following 
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mmainulhasan](https://www.linkedin.com/in/mmainulhasan)
-- Email: [Contact Me](https://www.mmainulhasan.com/contact-me/)
-- Personal Site: [mmainulhasan.com](https://www.mmainulhasan.com)
-- Blog Sites: [webdevstory.com](https://www.webdevstory.com) | [digitalnomadhack.com](https://www.digitalnomadhack.com)
+- LinkedIn: [linkedin.com/in/mmainulhasan](https://www.linkedin.com/in/mainulspace)
+- Email: [Contact Me](https://www.webdevstory.com/contact/)
+- Blog Site: [webdevstory.com](https://www.webdevstory.com)
