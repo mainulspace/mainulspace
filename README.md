@@ -15,7 +15,8 @@ Currently serving as a Teaching Assistant and pursuing my MS in Informatics at t
 - **DB Platforms**: SQL, MySQL, MongoDB, Oracle, SQLite, PostgreSQL
 - **Google & SEO**: Google Ads, Analytics, AMP, Search Console, Tag Manager, PWA
 - **Tools**: Git, Jira, Bitbucket, Basecamp, Jenkins, GCP, Azure, Dropbox API, AWS, Docker, Linux, Mac, PhpStorm, WebStorm
-- **Exposure**: Node.js, Firebase, AWS, SEMrush, Ahrefs, Kubernetes, ExpressionEngine, Drupal, REST APIs • Server: cPanel/WHM, Nginx, LiteSpeed, Apache, PHP-FPM, VPS, Redis, Varnish, Cloudflare
+- **Exposure**: Node.js, Firebase, AWS, SEMrush, Ahrefs, Kubernetes, ExpressionEngine, Drupal, REST APIs
+- **Server**: cPanel/WHM, Nginx, LiteSpeed, Apache, PHP-FPM, VPS, Redis, Varnish, Cloudflare
 - **Languages:** English (B2), Bengali (C2), Norwegian (A1/A2)
 
 ## 💼 Responsibilities:
